@@ -10,6 +10,7 @@ React was chosen for the front-end to utilize its state management and reactive 
 Node.js and Express provide a lightweight, efficient back-end structure, ideal for handling asynchronous API requests.
 Axios is used for making HTTP requests due to its promise-based structure, which simplifies asynchronous code.
 Cheerio parses HTML returned from web pages, allowing for easy extraction of metadata.
+
 **Trade-offs**
 
 Error Handling: Prioritized robust error handling to guide users but did not implement more complex back-end validations that might complicate the user experience.
