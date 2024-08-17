@@ -36,8 +36,9 @@ Access the application via http://localhost:3000 in your web browser.
 
 
 **Front-End Testing (React with Jest and React Testing Library)**
-**Back-End Testing (Node.js with Jest and Supertest)**
-- found in repo
 
-- 
+**Back-End Testing (Node.js with Jest and Supertest)**
+ found in repo
+
+
 
