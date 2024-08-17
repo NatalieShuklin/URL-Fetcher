@@ -1,5 +1,6 @@
 **URL Metadata Fetcher Application**
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/10b66e4c-3e77-4749-b1aa-747ef70347bc)
+
 
 Documentation Overview The URL Metadata Fetcher is designed to extract and display metadata from provided URLs. The application comprises a React-based front-end and a Node.js-based back-end.
 
