@@ -9,6 +9,11 @@
 
 The URL Metadata Fetcher is designed to extract and display metadata from provided URLs. The application comprises a React-based front-end and a Node.js-based back-end.
 
+**Relevant code:**
+
+Server: server.js
+Client: App.js, App.css
+
 **Design Choices**
 
 React was chosen for the front-end to utilize its state management and reactive updates for a dynamic user interface. Node.js and Express provide a lightweight, efficient back-end structure, ideal for handling asynchronous API requests. Axios is used for making HTTP requests due to its promise-based structure, which simplifies asynchronous code. Cheerio parses HTML returned from web pages, allowing for easy extraction of metadata.
@@ -31,7 +36,7 @@ git clone https://github.com/NatalieShuklin/URL-Fetcher.git cd url-metadata-fetc
 Access the application via http://localhost:3000 in your web browser.
 
 **Front-End Testing (React with Jest and React Testing Library)** 
-- found in repo
+- found in App.test.js
   
 **Back-End Testing (Node.js with Jest and Supertest)**
-- found in repo
+- found in server.test.js
