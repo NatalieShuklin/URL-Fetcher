@@ -30,6 +30,7 @@ git clone https://github.com/NatalieShuklin/URL-Fetcher.git cd url-metadata-fetc
 
 Access the application via http://localhost:3000 in your web browser.
 
-**Front-End Testing (React with Jest and React Testing Library) 
-Back-End Testing (Node.js with Jest and Supertest)**
-    - found in repo
+**Front-End Testing (React with Jest and React Testing Library)** 
+- found in repo
+**Back-End Testing (Node.js with Jest and Supertest)**
+- found in repo
